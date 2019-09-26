@@ -4,13 +4,13 @@ from distutils.core import setup
 from setuptools import find_packages
 
 setup(
-    name='phaserecon',
-    version='0.0.1',
+    name='virtcoilphase',
+    version='0.1.0',
     author='Nicholas McKibben',
     author_email='nicholas.bgp@gmail.com',
     packages=find_packages(),
     scripts=[],
-    url='https://github.com/mckib2/phaserecon',
+    url='https://github.com/mckib2/virtcoilphase',
     license='GPLv3',
     description=(
         'Virtual reference coil method to determine phase '
